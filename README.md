@@ -17,7 +17,7 @@ MUSH outputs merged two-channel TIFFs into the working directory (typically the 
 
 Work that employed code from MUSH can cite it as follows: 
 
-Swanberg, K.M. (2024). MUSH: Making Unnecesary Separation Harmonious v. 1.0. Source code. https://github.com/kswanberg/MUSH.
+Swanberg, K.M. (2024). MUSH: Making Unnecessary Separation Harmonious v. 1.0. Source code. https://github.com/kswanberg/MUSH.
 
 
 ### Developer
