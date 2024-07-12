@@ -35,7 +35,7 @@ def MUSH_Master():
                Example (from a Windows system): C:\\Users\\kswanberg\\DAPI_lectin_collagen\\GLU01-1_dat.tif""")
     
     # Offending filename string to remove
-    str_to_replace = 'BSA-647AB-568Methoxy-'
+    str_to_replace = ''
 
     # Set working directory to location of file 
     os.chdir(sys.path[0])
